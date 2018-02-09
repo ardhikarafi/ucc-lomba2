@@ -66,6 +66,9 @@
                                 <button type="submit" class="btn btn-primary">
                                     Register
                                 </button>
+                                <a href="/">
+                                <button type="button" class="btn btn-secondary">Kembali</button>
+                                </a>
                             </div>
                         </div>
                     </form>

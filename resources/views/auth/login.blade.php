@@ -54,6 +54,9 @@
                                 <button type="submit" class="btn btn-primary">
                                     Login
                                 </button>
+                                <a href="/">
+                                <button type="button" class="btn btn-secondary">Kembali</button>
+                                </a>
 
                                 <a class="btn btn-link" href="{{ route('password.request') }}">
                                     Forgot Your Password?
